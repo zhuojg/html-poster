@@ -1,0 +1,12 @@
+#main-part {
+    width: 700px;
+    height: 1000px;
+    margin: 0 auto;
+    position: relative;
+    background-color: blanchedalmond;
+}
+
+.part {
+    position: absolute;
+    background-color: white;
+}
