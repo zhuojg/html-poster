@@ -6,3 +6,23 @@
 .part {
     position: absolute;
 }
+
+@font-face {
+    font-family: 'FZDBSJW';
+    src: url('./FZDBSJW.TTF');
+}
+
+h1 {
+    font-family: FZDBSJW;
+}
+
+h2 {
+    font-family: FZDBSJW;
+    font-size: 12px;
+}
+
+body {
+    margin: 0;
+    padding-top: 48px;
+    padding-bottom: 48px;
+}
